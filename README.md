@@ -1,2 +1,2 @@
-# Veniamin-Leb.github.io
+# Cozy.Veniamin-Leb.github.io
 Адаптивная вёрстка сайта Cozy House
